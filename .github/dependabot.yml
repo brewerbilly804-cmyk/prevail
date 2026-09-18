@@ -1,4 +1,100 @@
-# Copyright (c) Prevail Verifier contributors.
+users
+- Billy Brewer 
+- email
+- role
+- created_at
+
+videos
+- id
+- title
+- creator_or_studio
+- authorized_url
+- thumbnail_url
+- release_date
+- status
+- created_at
+
+reviews
+- id
+- video_id
+- author_id
+- rating
+- title
+- body
+- status
+- created_at
+
+reports
+- id
+- video_id
+- reporter_id
+- reason
+- status
+- created_atusers
+- id
+- email
+- role
+- created_at
+
+videos
+- id
+- title
+- creator_or_studio
+- authorized_url
+- thumbnail_url
+- release_date
+- status
+- created_at
+
+reviews
+- id
+- video_id
+- author_id
+- rating
+- title
+- body
+- status
+- created_at
+
+reports
+- id
+- video_id
+- reporter_id
+- reason
+- status
+- created_atusers
+- id
+- email
+- role
+- created_at
+
+videos
+- id
+- title
+- creator_or_studio
+- authorized_url
+- thumbnail_url
+- release_date
+- status
+- created_at
+
+reviews
+- id
+- video_id
+- author_id
+- rating
+- title
+- body
+- status
+- created_at
+
+reports
+- id
+- video_id
+- reporter_id
+- reason
+- status
+- created_at# Copyright (c) Prevail Verifier contributors.
 # SPDX-License-Identifier: MIT
 #
 # For documentation on the format of this file, see
